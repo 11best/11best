@@ -28,7 +28,6 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
       - name: Recently used
         uses: lowlighter/metrics@latest
         with:
@@ -41,5 +40,4 @@ jobs:
             gnuplot
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
 
