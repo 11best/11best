@@ -16,18 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.46mb of code in 787 edited files across 295 commits over last 14 days</small>
+                <small>estimation from 1.38mb of code in 720 edited files across 253 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.7144333913159" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.7144333913159" y="0" width="7.29021784307294" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.00465123438886" y="0" width="2.5780484945654685" height="8" fill="#60B5CC"/>
-                    <rect mask="url(#languages-bar)" x="458.5826997289543" y="0" width="0.776737196968172" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.35943692592247" y="0" width="0.4978525932881551" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.8572895192106" y="0" width="0.14271048078938364" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.2874448774943" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.2874448774943" y="0" width="7.335734635104203" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.6231795125985" y="0" width="0.7815867894245812" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.40476630202306" y="0" width="0.5009609575975226" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.90572725962056" y="0" width="0.0942727403794025" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,45 +39,7 @@
                             </div>
                             <small>
                                 <div>823 kB</div>
-                                <div>97.55%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#60B5CC" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Elm
-                            </div>
-                            <small>
-                                <div>4.73 kB</div>
-                                <div>0.56%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Swift
-                            </div>
-                            <small>
-                                <div>914 bytes</div>
-                                <div>0.11%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Limbo
-                            </div>
-                            <small>
-                                <div>13.3 kB</div>
-                                <div>1.58%</div>
+                                <div>98.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -96,13 +57,39 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Ruby
                             </div>
                             <small>
-                                <div>262 bytes</div>
-                                <div>0.03%</div>
+                                <div>172 bytes</div>
+                                <div>0.02%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Limbo
+                            </div>
+                            <small>
+                                <div>13.3 kB</div>
+                                <div>1.59%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Swift
+                            </div>
+                            <small>
+                                <div>914 bytes</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>
