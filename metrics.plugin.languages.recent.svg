@@ -16,17 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.38mb of code in 720 edited files across 253 commits over last 13 days</small>
+                <small>estimation from 1.39mb of code in 728 edited files across 262 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="451.2874448774943" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.2874448774943" y="0" width="7.335734635104203" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.6231795125985" y="0" width="0.7815867894245812" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.40476630202306" y="0" width="0.5009609575975226" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.90572725962056" y="0" width="0.0942727403794025" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.0273346471502" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.0273346471502" y="0" width="7.282741129961413" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.31007577711165" y="0" width="2.8409437716324373" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.15101954874405" y="0" width="1.2580467343447987" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.40906628308886" y="0" width="0.4973420048404611" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.9064082879293" y="0" width="0.09359171207063383" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,31 +40,31 @@
                             </div>
                             <small>
                                 <div>823 kB</div>
-                                <div>98.11%</div>
+                                <div>97.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                RenderScript
+                                TypeScript
                             </div>
                             <small>
-                                <div>1.43 kB</div>
-                                <div>0.17%</div>
+                                <div>5.22 kB</div>
+                                <div>0.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Ruby
+                                Swift
                             </div>
                             <small>
-                                <div>172 bytes</div>
-                                <div>0.02%</div>
+                                <div>914 bytes</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>
@@ -77,19 +78,31 @@
                             </div>
                             <small>
                                 <div>13.3 kB</div>
-                                <div>1.59%</div>
+                                <div>1.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Swift
+                                RenderScript
                             </div>
                             <small>
-                                <div>914 bytes</div>
-                                <div>0.11%</div>
+                                <div>2.31 kB</div>
+                                <div>0.27%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Ruby
+                            </div>
+                            <small>
+                                <div>172 bytes</div>
+                                <div>0.02%</div>
                             </small>
                         </div>
                     </section>
